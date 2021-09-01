@@ -6,3 +6,8 @@ Left and Right arrows increase and decrease the maximum points used to show shap
 Space bar pauses adding points\
 
 <img src="https://github.com/MattR2718/ChaosGame/blob/main/images/SierpinskiWhite.PNG" width="300" height="300">
+<img src="https://github.com/MattR2718/ChaosGame/blob/main/images/PizzaRed.PNG" width="300" height="300">
+<img src="https://github.com/MattR2718/ChaosGame/blob/main/images/BarbYellow.PNG" width="300" height="300">
+<img src="https://github.com/MattR2718/ChaosGame/blob/main/images/SierpinskiRainbow.PNG" width="300" height="300">
+<img src="https://github.com/MattR2718/ChaosGame/blob/main/images/SnowflakeWhite.PNG" width="300" height="300">
+<img src="https://github.com/MattR2718/ChaosGame/blob/main/images/SquareWhite.PNG" width="300" height="300">
